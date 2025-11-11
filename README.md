@@ -75,7 +75,7 @@ The visuals are designed to replicate Spotify’s dark UI theme with high-contra
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   [git clone https://github.com/<your-username>/<repo-name>.git](https://github.com/SoumitBarate/Spotify-dashboard-power_bi.git)
 2. Open report-file.pbix in Power BI Desktop
 
 3. Ensure the dataset spotify-top-50-world.xlsx is in the same folder
