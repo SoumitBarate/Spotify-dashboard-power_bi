@@ -1,6 +1,6 @@
 # 🎧 Spotify Top-50 Analytics Dashboard (Power BI)
 
-![Dashboard Preview](Dashboard-Preview.png)
+![Dashboard Preview](Dashboard.png)
 
 This repository contains an interactive **Power BI dashboard** built using Spotify's **Top-50 dataset**.  
 The project focuses on visual analytics for songs, artists, albums, and popularity patterns, presented through a modern Spotify-style UI.
